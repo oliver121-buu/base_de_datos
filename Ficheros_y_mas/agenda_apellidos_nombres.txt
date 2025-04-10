@@ -1,0 +1,26 @@
+Nombre(36) Apellidos(45) Direccion(67) Ciudad(22) Movil(9)
+
+Orden por nombre
+
+Armando                            |Lisandro Martinez                             |C. Generalife, 15, Usera                                          |Madrid                |678398494
+Felipe                             |Montes Cueva                                  |C. de Santo Domingo, 6,La Fortuna                                 |Madrid                |669305357
+Francisco                          |García Serrano                                |C. Juan XXIII, 5, 11380 Tarifa                                    |Cádiz                 |635657295
+Gonzalo                            |Lucero Domínguez                              |C. Aldeanueva de la Vera, Latina                                  |Madrid                |639073443
+Juan                               |Lopez Olivares                                |Carrer d'Ildefons Cerdà, 12, 08870 Sitges                         |Barcelona             |648534474
+Julián                             |Esteban Manrique                              |C/ de las Azulinas, 12, Chamartín                                 |Madrid                |659675498
+Manolo                             |Ramírez Crespo                                |C. de Villava, 7, Fuencarral-El Pardo                             |Madrid                |648485850
+Miguel                             |Milán Romero                                  |C. Joaquín Rodrigo, 39, 03738 Media Luna                          |Alicante              |651029036
+Óscar                              |Menéndez Toledo                               |Cl. del Parroco Eusebio Cuenca, 42, Arganzuela                    |Madrid                |657578953
+Tomás                              |López de la Sierra                            |C. Vidauba, 20, Latina                                            |Madrid                |666554792
+
+Orden por apellidos
+
+Julián                             |Esteban Manrique                              |C/ de las Azulinas, 12, Chamartín                                 |Madrid                |659675498
+Francisco                          |García Serrano                                |C. Juan XXIII, 5, 11380 Tarifa                                    |Cádiz                 |635657295
+Armando                            |Lisandro Martinez                             |C. Generalife, 15, Usera                                          |Madrid                |678398494
+Tomás                              |López de la Sierra                            |C. Vidauba, 20, Latina                                            |Madrid                |666554792
+Gonzalo                            |Lucero Domínguez                              |C. Aldeanueva de la Vera, Latina                                  |Madrid                |639073443
+Óscar                              |Menéndez Toledo                               |Cl. del Parroco Eusebio Cuenca, 42, Arganzuela                    |Madrid                |657578953
+Miguel                             |Milán Romero                                  |C. Joaquín Rodrigo, 39, 03738 Media Luna                          |Alicante              |651029036
+Felipe                             |Montes Cueva                                  |C. de Santo Domingo, 6,La Fortuna                                 |Madrid                |669305357
+Manolo                             |Ramírez Crespo                                |C. de Villava, 7, Fuencarral-El Pardo                             |Madrid                |648485850
